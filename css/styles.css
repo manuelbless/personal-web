@@ -1,0 +1,116 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'meriweather',cursive;
+  color: #11999E;
+}
+.nav-menu{
+  color: #11999E;
+}
+h1{
+  font-family: 'sacramento' ,cursive;
+  font-size: 3.625rem;
+  color: #11999E;
+}
+h2{
+  color: #11999E;
+  margin: 40px auto ;
+  font-size: 2em;
+}
+p{
+  line-height: 2;
+
+}
+hr{
+  border: dashed #EAF6F6 6px;
+  border-top: none;
+  width: 20%;
+}
+h3{
+  color: #11999E;
+}
+.section1{
+   background-color: #66BFBF ;
+   position: relative;
+   padding-top: 100px;
+   padding-bottom: 100px
+}
+
+.top-cloud{
+  position: absolute;
+  margin-top: 10px;
+  right: 5%;
+  top: 0;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 5%;
+}
+.middle-cloud{
+  margin-top: 100px;
+  padding-bottom: 0;
+}
+.skills-row{
+  width: 40%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.pic1{
+  width: 45%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 10;
+}
+.pic2{
+  width: 50%;
+  float: right;
+  margin-left:30px;
+
+}
+.pic3{
+  margin-top: 100px;
+  width: 25%;
+  border-radius: 50%;
+}
+.intro{
+  width: 40%;
+  margin: auto;
+}
+.conatct-me-message{
+  width: 40%;
+  margin: 20px auto 60px;
+}
+.contact-me{
+
+}
+.button-selection{
+    background-color:#66BFBF ;
+    padding: 20px;
+    margin-top: 40px;
+
+}
+.btn{
+  background: #3498db;
+  border-radius: 8px;
+  font-family: cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+.btn:hover{
+  background-color: #66BFBF;
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:  #E4F9F6;
+}
+.copyrite{
+  font-size: 12px;
+}
